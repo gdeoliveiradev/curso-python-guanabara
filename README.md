@@ -1,6 +1,3 @@
-# curso-python-guanabara
-Exercícios e desafios desenvolvidos durante o Curso de Python do professor Gustavo Guanabara (Curso em Vídeo).
-
 # Curso de Python - Gustavo Guanabara
 
 Este repositório contém os exercícios e desafios desenvolvidos durante o curso de Python do Professor Gustavo Guanabara, do Curso em Vídeo.
