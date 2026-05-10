@@ -10,10 +10,6 @@ Este repositório contém os exercícios e desafios desenvolvidos durante o curs
 - Operadores aritméticos
 - Manipulação de variáveis
 
-### Mundo 2 – Estruturas de Controle
-- Condições (if, elif, else)
-- Estruturas de repetição (for e while)
-
 ## Objetivo
 Documentar minha evolução na programação e construir um portfólio sólido na área de tecnologia.
 
